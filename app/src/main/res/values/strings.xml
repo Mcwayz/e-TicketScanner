@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">eTicket-Scanner</string>
+	<string name="error_camera">Cannot Open Camera</string>
+</resources>
